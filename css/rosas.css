@@ -81,7 +81,7 @@ body {
   animation: fadeIn 3s ease-in-out forwards;
   text-align: center;
   left: 50%;
-  transform: translateX(-50%);
+  transform: translateX(-20%);
   max-width: 90vw;
   line-height: 1.4;
 }
